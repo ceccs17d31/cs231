@@ -1,3 +1,5 @@
+/* Lena Grace Joseph
+   Stack using linked list*/
 #include<stdio.h>
 #include<stldlib.h>
 
