@@ -1,5 +1,11 @@
-#include <stdio.h>
+/*Lena Grace Joseph
+  S3 D 31
+  Quick sort non recursive*/
 
+
+
+
+#include <stdio.h>
 void swap(int *a, int *b) {
   int temp = *a;
   *a = *b;
