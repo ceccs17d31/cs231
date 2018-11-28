@@ -1,6 +1,11 @@
+/*  Lena Grace Joseph
+    S3 D 31
+    Sequential search*/
+
+
+
 
 #include<stdio.h>
-
 void main() 
 {
 	int i, j, num, temp, arr[20];
