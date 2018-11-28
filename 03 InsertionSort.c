@@ -1,6 +1,6 @@
 /*  Lena Grace Joseph
     S3 D 31
-    Sequential search*/
+    Insertion Sort*/
 
 
 
