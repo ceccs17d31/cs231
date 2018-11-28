@@ -1,3 +1,10 @@
+/*  LENA GRACE JOSEPH
+    S3 D 31
+    Sequential search*/
+
+
+
+
 #include<stdio.h>
 #include<conio.h>
 void main()
