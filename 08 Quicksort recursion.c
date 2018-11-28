@@ -3,8 +3,6 @@
     Quicksort Recursion*/
 
 
-
-
 #include<stdio.h>
 void quicksort(int n[25],int f,int l)
 {
