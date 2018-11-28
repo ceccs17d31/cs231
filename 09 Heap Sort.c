@@ -3,8 +3,6 @@
   Heap Sort*/
 
 
-
-
 #include<stdio.h>
 void main()
 {
