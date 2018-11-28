@@ -1,3 +1,10 @@
+/*Lena Grace Joseph
+ S3 D 31
+ Stack:Infix to Potfix Conversion*/
+
+
+
+
 #include <stdio.h>
 
 int instackPriority(char symbol) {
