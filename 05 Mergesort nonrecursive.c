@@ -1,7 +1,12 @@
+/*  LENA GRACE JOSEPH
+    S3 D 31
+    Mergesort Non recursive*/
+
+
+
+
 #include<stdio.h>
-
 #define max 25
-
 int main()
 
 {
