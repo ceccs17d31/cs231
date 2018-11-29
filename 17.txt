@@ -1,0 +1,22 @@
+First Polynomial 
+Enter coefficient: 7
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 8
+Enter exponent: 1
+1. Add more elements
+2. Continue
+Enter choice: 2
+
+
+Second polynomial 
+Enter coefficient: 7
+Enter exponent: 3
+1. Add more elements
+2. Continue
+Enter choice: 2
+F(p) = 7 p2 + 8 p1 + 0
+F(q) = 7 q3 + 0
+F(r) = 49 r5 + 56 r4 + 0
