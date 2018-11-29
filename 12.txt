@@ -1,0 +1,50 @@
+1 - Insert at beginning
+ 2 - Insert at end
+ 3 - Insert at position i
+ 4 - Delete at i
+ 5 - Display from beginning
+ 6 - Display from end
+ 7 - Search for element
+ 8 - Exit
+ Enter choice : 1
+
+ Enter value to node : 7
+
+ Enter choice : 1 2
+
+ Enter value to node : 8
+
+ Enter choice : 2
+
+ Enter value to node : 9
+
+ Enter choice : 1
+
+ Enter value to node : 5
+
+ Enter choice : 3
+
+ Enter position to be inserted : 2
+
+ Enter value to node : 6
+
+ Enter choice : 5
+
+ Linked list elements from begining :  5  6  7  8  9 
+ Enter choice : 6
+
+ Reverse order of linked list is :  9  8  7  6  5 
+ Enter choice : 4
+
+ Enter position to be deleted : 2
+
+ Node deleted
+ Enter choice : 5
+
+ Linked list elements from begining :  5  7  8  9 
+ Enter choice : 7
+
+ Enter value to search : 7
+
+ Data found in 2 position
+ Enter choice : 8
