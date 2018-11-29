@@ -1,0 +1,48 @@
+enter 1st number:
+ enter coeff:6
+
+ enter power:2
+
+ continue(1/0):1
+
+ enter coeff:2
+
+ enter power:1
+
+ continue(1/0):1
+
+ enter coeff:8
+
+ enter power:0
+
+ continue(1/0):0
+
+enter 2nd number:
+ enter coeff:5
+
+ enter power:3
+
+ continue(1/0):1
+
+ enter coeff:3
+
+ enter power:2
+
+ continue(1/0):1
+
+ enter coeff:8
+
+ enter power:1
+
+ continue(1/0):1
+
+ enter coeff:6
+
+ enter power:0
+
+ continue(1/0):0
+
+1st Number:6x^2+2x^1+8x^0
+2nd Number:5x^3+3x^2+8x^1+6x^0
+Added polynomial:5x^3+9x^2+10x^1+14x^0
+ add two more numbers:0
