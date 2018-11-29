@@ -1,0 +1,122 @@
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 1
+enter the element: 7
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 1
+enter the element: 5
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 1
+enter the element: 9
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 3
+elements: 9 |->5 |->7 |->NULL
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 4
+enter the element: 3
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 4
+enter the element: 2
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 4
+enter the element: 1
+element pushed!!!
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 6
+elements: 1 |->2 |->3 |->NULL
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 2
+popped out: 9
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 3
+elements: 5 |->7 |->NULL
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 5
+popped out: 1
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 6
+elements: 2 |->3 |->NULL
+MENU
+
+STACK 1        STACK 2
+1.PUSH         4.PUSH
+2.POP          5.POP
+3.DISPLAY      6.DISPLAY
+         7.EXIT
+Enter Choice: 7
