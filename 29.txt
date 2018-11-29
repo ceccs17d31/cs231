@@ -1,0 +1,45 @@
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 1
+Enter element: 9
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 2 1
+Enter element: 7
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 1
+Enter element: 3
+
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 3
+9 <-7 <-3 <- NULL
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 2
+
+DELETED 9 
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 3
+7 <-3 <- NULL
+MENU
+1.Insertion
+2.Deletion
+3.Display
+Enter choice: 8
