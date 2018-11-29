@@ -1,0 +1,11 @@
+Enter number of elements in array
+5
+Enter 5 integer(s)
+1
+6
+7
+33
+2
+Enter a number to search
+2
+2 is present at location 5.
