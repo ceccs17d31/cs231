@@ -1,0 +1,7 @@
+Enter The size : 5
+Enter The Elements : 4
+7
+3
+5
+2
+Sorted Array : 2	3	4	5	7
