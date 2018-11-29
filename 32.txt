@@ -1,0 +1,107 @@
+ 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 1
+
+ Enter new element: 5
+
+ root is 5
+ 
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 1
+
+ Enter new element: 8
+
+ root is 5
+ 
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 1
+
+ Enter new element: 7
+
+ root is 5
+
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 4
+
+ Postorder traversal of binary tree is :  7 8 5
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 5
+
+ Preorder traversal of binary tree is :  5 8 7
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 2
+
+ Enter the element to be deleted : 7
+ 5 8
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 6
+
+ Search and replace operation in binary tree 
+ Enter the element to be searched :8
+
+ Element 8 which was searched is found and is = 8
+ Do you want replace it, press 1 for yes : 1
+
+ Enter new element :2
+
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 5
+
+ Preorder traversal of binary tree is :  5 2
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 7
+
+ End of program
