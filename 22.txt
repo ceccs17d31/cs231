@@ -1,0 +1,2 @@
+Enter the infix expression : 7*5+1-9/2
+Postfix : 75*1+92/-
