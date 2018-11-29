@@ -1,0 +1,7 @@
+Enter the number of elements to be sorted: 5
+1. Enter element: 1
+2. Enter element: 7
+3. Enter element: 8
+4. Enter element: 2
+5. Enter element: 3
+In ascending order: 1  2  3  7  8  
