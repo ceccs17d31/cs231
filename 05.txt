@@ -1,0 +1,13 @@
+Enter the array size: 6
+
+Enter the array array elements: 2
+1
+7
+2 3
+5
+6
+Given array is 
+2 1 7 3 5 6 
+
+Sorted array is 
+1 2 3 5 6 7 
