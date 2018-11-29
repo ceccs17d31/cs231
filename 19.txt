@@ -1,0 +1,40 @@
+1 - Push
+ 2 - Pop
+ 3 - Top
+ 4 - Empty
+ 5 - Exit
+ 6 - Dipslay
+ 7 - Stack Count
+
+ Enter choice : 1
+ Enter data : 7
+
+
+ Enter choice : 1
+ Enter data : 4
+
+
+ Enter choice : 1
+ Enter data : 10
+
+
+ Enter choice : 6
+ 10 
+ 4 
+ 7 
+
+
+ Enter choice : 2
+
+ Popped value : 10
+
+ Enter choice : 6
+ 4 
+ 7 
+
+
+ Enter choice : 7
+
+ No. of elements in stack : 2
+
+ Enter choice : 5
