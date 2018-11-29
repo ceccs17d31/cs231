@@ -1,0 +1,57 @@
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 1
+Enter element: 8
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 1
+Enter element: 9
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 1
+Enter element: 3
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 3
+8 <-9 <-3 <-8
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 2
+
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 3
+9 <-3 <-9
+
+MENU
+1.Insert
+2.Delete
+3.Display
+4.Exit
+Enter Choice: 4
