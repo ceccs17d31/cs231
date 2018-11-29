@@ -1,0 +1,95 @@
+Script started on 2018-11-28 23:16:21+05:30
+]0;shylesh@shylesh: ~/Desktop/cs231-master[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/cs231-master[00m$ ./27
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 1
+Enter data to be inserted : 7
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 2
+Enter data to be entered : 8
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 1
+Failed: No space at front
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 4
+Deleted element : 8
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 2
+Enter data to be entered : 8
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 5
+7
+8
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 4
+Deleted element : 8
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 5
+7
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 6
+]0;shylesh@shylesh: ~/Desktop/cs231-master[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/cs231-master[00m$ exit
+
+Script done on 2018-11-28 23:17:14+05:30
