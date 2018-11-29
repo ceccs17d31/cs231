@@ -1,0 +1,23 @@
+Enter coefficient : 6
+Enter exponent : 2
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 1
+
+Enter coefficient : 5
+Enter exponent : 1
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 1
+
+Enter coefficient : 7
+Enter exponent : 0
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 2
+
+
+F(p) = 6x^2 + 5x^1 + 7
