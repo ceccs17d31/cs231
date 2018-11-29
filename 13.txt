@@ -1,0 +1,218 @@
+==============================
+CIRCULAR LINEAR LINKED LIST
+
+The list is empty
+
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	1
+Enter the a value to be inserted at the beginning:	5
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+5 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	2
+Enter the value to be inserted at the end:	9
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+5 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	1
+Enter the a value to be inserted at the beginning:	8
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+8 5 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	3
+Enter the number after which you want to insert the node:	8
+Enter the number:	7
+There is no such element exist
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+8 7 5 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	4
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 5 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	5
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 5 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	6
+Enter the  number which you want to delete:	5
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	2
+Enter the value to be inserted at the end:	8
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 8 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	2
+Enter the value to be inserted at the end:	9
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 8 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	7
+Enter the number:	8
+
+Element Present! 
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 8 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
+Choose any one of the above:	8 7
+Enter the number:	1
+
+No such element exist
+
+==============================
+CIRCULAR LINEAR LINKED LIST
+The List is 
+7 8 9 
+==============================
+1.INSERT AT BEGINNING
+2.INSERT AT END
+3.INSERT IN BETWEEN
+4.DELETE AT BEGINNING
+5.DELETE AT END
+6.DELETE IN BETWEEN
+7.SEARCH 
+8.DISPLAY
+0.EXIT
+==============================
