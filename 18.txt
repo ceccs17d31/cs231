@@ -1,0 +1,45 @@
+Enter the size of STACK : 5
+
+	 STACK OPERATIONS USING ARRAY
+	--------------------------------
+	 1.PUSH
+	 2.POP
+	 3.DISPLAY
+	 4.EXIT
+ Enter the Choice:1
+ Enter a value to be pushed:5
+
+ Enter the Choice:1
+ Enter a value to be pushed:8
+
+ Enter the Choice:3
+
+ The elements in STACK 
+
+8
+5
+ Press Next Choice
+ Enter the Choice:1
+ Enter a value to be pushed:7
+
+ Enter the Choice:3
+
+ The elements in STACK 
+
+7
+8
+5
+ Press Next Choice
+ Enter the Choice:2
+
+	 The popped elements is 7
+ Enter the Choice:3
+
+ The elements in STACK 
+
+8
+5
+ Press Next Choice
+ Enter the Choice:4
+
+	 EXIT POINT
