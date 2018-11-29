@@ -1,5 +1,4 @@
-Script started on 2018-11-28 23:16:21+05:30
-]0;shylesh@shylesh: ~/Desktop/cs231-master[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/cs231-master[00m$ ./27
+
 
 	Queue using array
 1.Enqueue Front
@@ -90,6 +89,3 @@ Enter your choice : 5
 5.Display
 6.Exit
 Enter your choice : 6
-]0;shylesh@shylesh: ~/Desktop/cs231-master[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/cs231-master[00m$ exit
-
-Script done on 2018-11-28 23:17:14+05:30
